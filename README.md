@@ -1,0 +1,2 @@
+# PC
+masina virtuala
